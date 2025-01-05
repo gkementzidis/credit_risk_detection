@@ -1,2 +1,2 @@
-# credit_risk_detection
-Detecting risk of default from various features.
+# Credit Risk Detection
+## Detecting risk of default from various features.
